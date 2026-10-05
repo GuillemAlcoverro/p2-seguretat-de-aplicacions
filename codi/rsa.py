@@ -1,15 +1,15 @@
 # 3.2 Xifratge i desxifratge d'enters
 
-from exponenciacio import exponenciacio_mododular_rapida
+from exponenciacio import exponenciacio_modular_rapida
 
 
 def xifra(m, e, n):
     if not 0 <= m < n:
         return None
-    return exponenciacio_mododular_rapida(m, e, n)
+    return exponenciacio_modular_rapida(m, e, n)
 
 def desxifra(c, d, n):
-    return exponenciacio_mododular_rapida(c, d, n)
+    return exponenciacio_modular_rapida(c, d, n)
 
 
 if __name__ == "__main__":

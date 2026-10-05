@@ -1,4 +1,4 @@
-def exponenciacio_mododular_rapida(a, b, n):
+def exponenciacio_modular_rapida(a, b, n):
     resultat = 1 % n
     base = a % n
     while b > 0:
@@ -10,4 +10,4 @@ def exponenciacio_mododular_rapida(a, b, n):
 
 
 if __name__ == "__main__":
-    print(exponenciacio_mododular_rapida(65, 17, 3233)) # Resultat: 2790
+    print(exponenciacio_modular_rapida(65, 17, 3233)) # Resultat: 2790
