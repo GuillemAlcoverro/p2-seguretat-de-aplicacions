@@ -1,0 +1,1 @@
+Hola, que tal som en Guillem Alcoverro i Nil Molinero i us estem escribint aquest text per veure com funciona l'RSA. Si estàs llegint aquest text, significa que has comprés a la perfecció com funciona el xifratge RSA. Hola Ibai i hola Pol!

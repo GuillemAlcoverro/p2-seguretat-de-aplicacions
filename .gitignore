@@ -28,24 +28,6 @@ htmlcov/
 .ipynb_checkpoints/
 *.ipynb
 
-# --- Claus criptogràfiques ---
-# Mai no s'han de pujar claus privades ni material OpenSSL generat.
-*.pem
-*.key
-*.der
-*.csr
-*.pub
-claus/*
-!claus/.gitkeep
-
-# --- Artefactes de xifratge ---
-*.enc
-*.bin
-criptogrames/*
-!criptogrames/.gitkeep
-missatges/*
-!missatges/.gitkeep
-
 # --- Sistema operatiu i editors ---
 .DS_Store
 .DS_Store?
