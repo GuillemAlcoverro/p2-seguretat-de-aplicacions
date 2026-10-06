@@ -47,6 +47,6 @@ if __name__ == "__main__":
     # Clau de 2048 bits (n te aproximadament 2048 bits)
     n_2048_bits = 2 ** 2048
     k_2048 = max_bytes_per_bloc(n_2048_bits)
-    print(f"\nn ≈ 2^2048 (clau de 2048 bits)")
+    print(f"\nn ~ 2^2048 (clau de 2048 bits)")
     print(f"  Maxim bytes per bloc: k = {k_2048}")
     print(f"  Es a dir, {k_2048} bytes = {k_2048 * 8} bits")
