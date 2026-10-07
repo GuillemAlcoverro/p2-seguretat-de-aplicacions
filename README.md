@@ -16,6 +16,7 @@
 .
 ├── README.md                        # Aquest fitxer
 ├── IA.md                            # Ús de la intel·ligència artificial
+├── informe.pdf                      # Informe de la pràctica
 ├── claus/                           # Claus PEM de l'experiment Alice–Bob (apartat 8)
 │   ├── privada_bob.pem              # La nostra clau privada (mai s'intercanvia)
 │   ├── publica_bob.pem              # La nostra clau pública (lliurada a l'altra parella)

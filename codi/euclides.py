@@ -17,5 +17,6 @@ def invers_modular(a, n):
 
 if __name__ == "__main__":
     print (euclides(1728, 842)) # Resultat: 2
+    print (euclides(240, 46)) # Resultat: 2
     print (euclides_extens(1728, 842)) # Resultat: (2, 134, -275)
     print(invers_modular(17, 3120)) # Resultat: 2753
